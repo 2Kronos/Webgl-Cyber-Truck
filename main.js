@@ -23,7 +23,7 @@ const vertexDataTriangles = [
     -0.60, -0.9, 0,
     -0.80, -0.56, 0,
 ];
-
+//change 1
 const vertexDataDot = [
     0.4, -0.9, 0,
     -0.4, -0.9, 0,
